@@ -1,0 +1,8 @@
+ThermostatNight 0
+LightsOn 2000
+WaterOff 8000
+ThermostatDay 10000
+Bell 9000
+WaterOn 6000
+LightsOff 4000
+Terminate 12000

@@ -1,0 +1,10 @@
+ThermostatNight 0
+LightsOn 2000
+WaterOff 10000
+ThermostatDay 12000
+WaterOn 6000
+LightsOff 4000
+Terminate 20000
+FansOn 7000
+PowerOut 10500
+FansOff 8000
